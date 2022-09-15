@@ -391,8 +391,8 @@
   padding-bottom: 60px !important;
 }
 .navbar-header .navbar-brand {
-  padding-left: 55px;
-  background-image: url('../images/winter.png');
+  /* padding-left: 55px; */
+  /* background-image: url('../images/winter.png'); */
   background-size: auto 60%;
   background-repeat: no-repeat;
   background-position: 7px 50%;
